@@ -21,6 +21,6 @@ public class NewTest {
 	  
 	  driver.findElement(By.name("q")).sendKeys("javascript api");
 	  
-	  System.out.println("test for safty *****************************************");
+	  System.out.println("test sucessful*****************************************");
   }
 }
